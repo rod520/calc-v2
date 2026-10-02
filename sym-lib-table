@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "New_Library") (type "KiCad") (uri "C:/Users/Olsen/Downloads/New_Library.kicad_sym") (options "") (descr ""))
+	(lib (name "AAAAAAA") (type "KiCad") (uri "C:/Users/Olsen/Downloads/AAAAAAA.kicad_sym") (options "") (descr ""))
+)
