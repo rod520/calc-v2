@@ -629,6 +629,48 @@
           "label": "Sim.Pins",
           "name": "Sim.Pins",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Price/Stock",
+          "name": "Mouser Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Height",
+          "name": "Height",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Part_Number",
+          "name": "Manufacturer_Part_Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Price/Stock",
+          "name": "Arrow Price/Stock",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer_Name",
+          "name": "Manufacturer_Name",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Arrow Part Number",
+          "name": "Arrow Part Number",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Mouser Part Number",
+          "name": "Mouser Part Number",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -679,7 +721,7 @@
         "uuid": "a1b8a7c6-191a-488e-826c-828c8275131a"
       }
     ],
-    "used_designators": "D1,D3-5,L1-2,#PWR1-25,#PWR28-60,C1-22,C26-34,H1-4,J1-3,R1-17,U1-6,Q1,Y1,SW1-50,DS1",
+    "used_designators": "#PWR1-25,#PWR28-60,L1-2,D1,D3-5,C1-22,C26-34,H1-4,R1-17,J1-3,U1-6,Q1,Y1,SW1-50,DS1",
     "variants": []
   },
   "sheets": [
