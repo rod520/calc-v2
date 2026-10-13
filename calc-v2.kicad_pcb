@@ -90,7 +90,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "038e5069-4291-48cc-b2c4-9119d2e1238c")
-		(at 168.1 70.825)
+		(at 185 100)
 		(property "Reference" "SW22"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -124,7 +124,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -138,8 +138,14 @@
 		(path "/e44619c8-cf37-4555-bf1f-316b49d3c16a")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -345,7 +351,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "055a2de6-22f6-4653-8d55-17db636353bd")
-		(at 268.18 30)
+		(at 185 230)
 		(property "Reference" "SW46"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -379,7 +385,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -393,8 +399,14 @@
 		(path "/5431c1eb-6566-4490-af62-6f1860cccf71")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -758,7 +770,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "07518cff-cc6d-4e6b-87cd-e949a17540cc")
-		(at 141.45 78.375)
+		(at 175 70)
 		(property "Reference" "SW3"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -792,7 +804,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -806,8 +818,14 @@
 		(path "/a0ae4243-518f-486d-9ab5-8163df6b265c")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -1013,7 +1031,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "077db500-6517-4751-aa85-efac10f2ea62")
-		(at 181.425 70.825)
+		(at 155 170)
 		(property "Reference" "SW32"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -1047,7 +1065,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1061,8 +1079,14 @@
 		(path "/e7454824-16db-4d8e-a73f-2afa5c2ed413")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -1268,7 +1292,7 @@
 	(footprint "Resistor_SMD:R_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "08aa4f1d-a83c-4d62-b672-d8552bd3a155")
-		(at 89.275 47.625)
+		(at -6.654814 85.084198)
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R15"
@@ -1426,7 +1450,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "0c5985d9-028c-4ba0-8f8d-d5d2d4f7b5ee")
-		(at 154.775 78.375)
+		(at 135 90)
 		(property "Reference" "SW13"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -1460,7 +1484,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1474,8 +1498,14 @@
 		(path "/3d6c7d03-cdad-44a1-9a71-6d3af65d1711")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -1681,7 +1711,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "0c8f7abf-6884-4d3b-a0b9-7f1fbce3a168")
-		(at 168.1 131.225)
+		(at 205 140)
 		(property "Reference" "SW30"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -1715,7 +1745,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1729,8 +1759,14 @@
 		(path "/e93630c9-e278-4c60-ba4c-d69be562358b")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -1877,7 +1913,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -1887,7 +1923,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -1933,10 +1969,602 @@
 			)
 		)
 	)
+	(footprint "AAAAA:HIROSE_FH12S-40S-0.5SH_55_"
+		(layer "F.Cu")
+		(uuid "0f4fa5bc-54f5-408f-8a91-87a97d815e15")
+		(at 110.762 73.429)
+		(descr "HIROSE_FH12S-40S-0.5SH(55)")
+		(tags "Connector")
+		(property "Reference" "DS1"
+			(at -4.4958 -10.16 0)
+			(layer "F.SilkS")
+			(uuid "98cfac9c-f3a3-42ce-89f1-cdc149b72dac")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Value" "E28GA-T-CW250-N"
+			(at -4.4958 -10.16 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "42255b91-c6bc-4c76-b929-56f82b41f92d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Datasheet" "https://focuslcds.com/wp-content/uploads/2025/09/E28GA-T-CW250-N_Spec.pdf"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e97851ca-f7ee-42d3-bf53-823edc95bd4f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Focus LCDs 2.8in 240x320 TFT module, ST7789, 40-pin 0.5mm FPC (mate: Hirose FH12S-40S-0.5SH(55))"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e89212cb-f5ee-4c2a-bf0a-6ddd223b8ab8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C202114"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "d76af4bf-fa37-44f0-985d-38b25f23e971")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/dbf4d7d3-12fb-4321-a69f-da5c9161d0c8")
+		(sheetname "/")
+		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10" "11" "12" "13" "32" "33"
+					"34" "35" "36" "37" "38" "39" "40" "14" "15" "16" "17" "18" "19" "20"
+					"21" "22" "23" "24" "25" "26" "27" "28" "29" "30" "31"
+				)
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -12.0396 -9.652)
+			(end -12.0396 -8.128)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "85940cf4-7bbe-497f-aef3-46c4cc0bf64e")
+		)
+		(fp_line
+			(start -12.0396 -5.2324)
+			(end -12.0396 -4.064)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "9a86f320-e99b-4fc1-a6ed-df5777c94677")
+		)
+		(fp_line
+			(start -12.0396 -4.064)
+			(end -10.2362 -4.064)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a034b112-8389-4279-a9dd-5ef53550fea0")
+		)
+		(fp_line
+			(start 10.2362 -4.064)
+			(end 12.0396 -4.064)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "bea14e68-d0d0-4815-a0d6-5e63e5005573")
+		)
+		(fp_line
+			(start 10.3886 -4.064)
+			(end 10.2362 -3.7592)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a3686b9b-5ca5-4f29-8291-7d11b7f89af2")
+		)
+		(fp_line
+			(start 12.0396 -9.652)
+			(end -12.0396 -9.652)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "67d6e356-8b5b-4e50-9948-1566d171ff3d")
+		)
+		(fp_line
+			(start 12.0396 -8.128)
+			(end 12.0396 -9.652)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "e6feab2a-6bc1-42a0-80f7-002f04b0a4c2")
+		)
+		(fp_line
+			(start 12.0396 -4.064)
+			(end 12.0396 -5.2324)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d77a8a79-2459-488f-a5ae-584e0ee6652c")
+		)
+		(fp_line
+			(start -12.0396 -9.652)
+			(end -12.0396 -4.064)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "02d666db-cde5-4676-8d11-c76cfce7ee3e")
+		)
+		(fp_line
+			(start -12.0396 -4.064)
+			(end 12.0396 -4.064)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "6acdee94-9e36-4061-bd04-15c04ebbac45")
+		)
+		(fp_line
+			(start 12.0396 -9.652)
+			(end -12.0396 -9.652)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "098ad7ee-8f23-4611-8179-9002ebed03bb")
+		)
+		(fp_line
+			(start 12.0396 -4.064)
+			(end 12.0396 -9.652)
+			(stroke
+				(width 0.1524)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "93500722-3911-46a7-b92e-9a8c3698b39d")
+		)
+		(fp_text user "${REFERENCE}"
+			(at -4.4958 -10.16 0)
+			(layer "F.Fab")
+			(uuid "8aa9f2d5-9b74-4d2e-8e60-a4dd8b55d550")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at 9.7536 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "GND_1")
+			(pintype "power_in")
+			(uuid "06afee2e-1db5-42cd-967e-5a590ac8b1bf")
+		)
+		(pad "2" smd rect
+			(at 9.2456 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "GND_2")
+			(pintype "power_in")
+			(uuid "b00fb655-3de1-4f5f-85d1-36172462c15c")
+		)
+		(pad "3" smd rect
+			(at 8.7376 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-IM0-Pad3)")
+			(pinfunction "IM0_3")
+			(pintype "input")
+			(uuid "c6dfa991-b8bc-47d3-9d06-287ce4051c63")
+		)
+		(pad "4" smd rect
+			(at 8.255 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-IM1-Pad4)")
+			(pinfunction "IM1_4")
+			(pintype "input")
+			(uuid "412af333-7b3c-476d-a1f1-9831f07dce60")
+		)
+		(pad "5" smd rect
+			(at 7.747 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-IM2-Pad5)")
+			(pinfunction "IM2_5")
+			(pintype "input")
+			(uuid "4f03caf2-9074-4768-87a8-c0f5f7bc5244")
+		)
+		(pad "6" smd rect
+			(at 7.239 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-IM3-Pad6)")
+			(pinfunction "IM3_6")
+			(pintype "input")
+			(uuid "083529a5-2863-4e92-93d4-1d9b09272008")
+		)
+		(pad "7" smd rect
+			(at 6.7564 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-TE-Pad7)")
+			(pinfunction "TE_7")
+			(pintype "passive")
+			(uuid "8731830a-7b46-4bf5-b7a6-a37e25d1b8cd")
+		)
+		(pad "8" smd rect
+			(at 6.2484 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "+3V3")
+			(pinfunction "VDDI_8")
+			(pintype "power_in")
+			(uuid "0aaf9a63-2974-4763-8828-4f486b4dd37e")
+		)
+		(pad "9" smd rect
+			(at 5.7404 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "+3V3")
+			(pinfunction "VDD_9")
+			(pintype "power_in")
+			(uuid "46698631-dc87-473b-976b-c64af6ab88a1")
+		)
+		(pad "10" smd rect
+			(at 5.2578 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-~{CSX}-Pad10)")
+			(pinfunction "~{CSX}_10")
+			(pintype "input")
+			(uuid "8094767f-cb8d-43bd-9d7b-1430556f68cb")
+		)
+		(pad "11" smd rect
+			(at 4.7498 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DCX-Pad11)")
+			(pinfunction "DCX_11")
+			(pintype "input")
+			(uuid "80e186f4-5985-4bd9-a8e1-b8e93e3c012b")
+		)
+		(pad "12" smd rect
+			(at 4.2418 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-~{WRX}-Pad12)")
+			(pinfunction "~{WRX}_12")
+			(pintype "input")
+			(uuid "fb657bfb-9748-49f1-bc14-f0a89b416c57")
+		)
+		(pad "13" smd rect
+			(at 3.7592 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-~{RDX}-Pad13)")
+			(pinfunction "~{RDX}_13")
+			(pintype "input")
+			(uuid "da6dac25-509d-4468-a8fb-06b63aae1b4b")
+		)
+		(pad "14" smd rect
+			(at 3.2512 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB0-Pad14)")
+			(pinfunction "DB0_14")
+			(pintype "bidirectional")
+			(uuid "bb9c545b-3432-4cc6-91df-f5efe3d25863")
+		)
+		(pad "15" smd rect
+			(at 2.7432 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB1-Pad15)")
+			(pinfunction "DB1_15")
+			(pintype "bidirectional")
+			(uuid "d4e3611f-bbd8-4031-9a29-4c6ef76fd182")
+		)
+		(pad "16" smd rect
+			(at 2.2606 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB2-Pad16)")
+			(pinfunction "DB2_16")
+			(pintype "bidirectional")
+			(uuid "cc7d8c79-06d6-4b4e-969a-abab1fccc8dc")
+		)
+		(pad "17" smd rect
+			(at 1.7526 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB3-Pad17)")
+			(pinfunction "DB3_17")
+			(pintype "bidirectional")
+			(uuid "f0a8c057-4d2a-44ac-9459-499e42ac860f")
+		)
+		(pad "18" smd rect
+			(at 1.2446 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB4-Pad18)")
+			(pinfunction "DB4_18")
+			(pintype "bidirectional")
+			(uuid "b1ef95da-d513-4f0d-aa45-ed679695ee64")
+		)
+		(pad "19" smd rect
+			(at 0.762 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB5-Pad19)")
+			(pinfunction "DB5_19")
+			(pintype "bidirectional")
+			(uuid "46e5cbc6-3406-44cd-b3a1-eb996c2d15c1")
+		)
+		(pad "20" smd rect
+			(at 0.254 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB6-Pad20)")
+			(pinfunction "DB6_20")
+			(pintype "bidirectional")
+			(uuid "c05bfc4b-f29b-4cf0-a577-646aa69f5aef")
+		)
+		(pad "21" smd rect
+			(at -0.254 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB7-Pad21)")
+			(pinfunction "DB7_21")
+			(pintype "bidirectional")
+			(uuid "966ad996-b544-4cb3-9311-40fc2cb72af7")
+		)
+		(pad "22" smd rect
+			(at -0.762 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB8-Pad22)")
+			(pinfunction "DB8_22")
+			(pintype "bidirectional")
+			(uuid "3a32e46c-c8a6-49ba-9683-d2f3f42b1a4b")
+		)
+		(pad "23" smd rect
+			(at -1.2446 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB9-Pad23)")
+			(pinfunction "DB9_23")
+			(pintype "bidirectional")
+			(uuid "27971280-d110-4305-b2aa-800d7b273b77")
+		)
+		(pad "24" smd rect
+			(at -1.7526 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB10-Pad24)")
+			(pinfunction "DB10_24")
+			(pintype "bidirectional")
+			(uuid "c4460f56-4c1e-465e-b474-241da58d1694")
+		)
+		(pad "25" smd rect
+			(at -2.2606 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB11-Pad25)")
+			(pinfunction "DB11_25")
+			(pintype "bidirectional")
+			(uuid "e71462d7-b420-49d3-9ecb-c5837aa92754")
+		)
+		(pad "26" smd rect
+			(at -2.7432 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB12-Pad26)")
+			(pinfunction "DB12_26")
+			(pintype "bidirectional")
+			(uuid "dc93f97d-3951-4701-a50f-5bca75cf40fa")
+		)
+		(pad "27" smd rect
+			(at -3.2512 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB13-Pad27)")
+			(pinfunction "DB13_27")
+			(pintype "bidirectional")
+			(uuid "dcc2c41e-0a94-441a-ba3f-baafdc43dd10")
+		)
+		(pad "28" smd rect
+			(at -3.7592 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB14-Pad28)")
+			(pinfunction "DB14_28")
+			(pintype "bidirectional")
+			(uuid "2e7c447c-240f-42ec-99a1-d2cf66959bd0")
+		)
+		(pad "29" smd rect
+			(at -4.2418 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB15-Pad29)")
+			(pinfunction "DB15_29")
+			(pintype "bidirectional")
+			(uuid "0f65f7bc-193b-4a50-b1d9-4a643dc4a4dd")
+		)
+		(pad "30" smd rect
+			(at -4.7498 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB16-Pad30)")
+			(pinfunction "DB16_30")
+			(pintype "bidirectional")
+			(uuid "adece359-2654-404c-a80c-4d5d164c37db")
+		)
+		(pad "31" smd rect
+			(at -5.2578 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DB17-Pad31)")
+			(pinfunction "DB17_31")
+			(pintype "bidirectional")
+			(uuid "c1cdc973-cc66-4b58-9228-fafb603d4827")
+		)
+		(pad "32" smd rect
+			(at -5.7404 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-SDO-Pad32)")
+			(pinfunction "SDO_32")
+			(pintype "output")
+			(uuid "b13a2102-e632-4356-a0a5-ca419af8d8a0")
+		)
+		(pad "33" smd rect
+			(at -6.2484 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-SDA-Pad33)")
+			(pinfunction "SDA_33")
+			(pintype "bidirectional")
+			(uuid "ab4460b7-2df0-47f4-82b4-07e7e26f579a")
+		)
+		(pad "34" smd rect
+			(at -6.7564 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-DOTCLK-Pad34)")
+			(pinfunction "DOTCLK_34")
+			(pintype "input")
+			(uuid "9c3052ee-1ed6-46ef-96f6-a648687c3a9b")
+		)
+		(pad "35" smd rect
+			(at -7.239 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-ENABLE-Pad35)")
+			(pinfunction "ENABLE_35")
+			(pintype "input")
+			(uuid "883f2748-ae0f-4295-9fff-a1d873b2b4ec")
+		)
+		(pad "36" smd rect
+			(at -7.747 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-HSYNC-Pad36)")
+			(pinfunction "HSYNC_36")
+			(pintype "input")
+			(uuid "054f697b-0693-42fd-aa76-621d273c5de9")
+		)
+		(pad "37" smd rect
+			(at -8.255 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-VSYNC-Pad37)")
+			(pinfunction "VSYNC_37")
+			(pintype "input")
+			(uuid "b796a1da-764e-4e9e-aefd-1c5a844a8f4b")
+		)
+		(pad "38" smd rect
+			(at -8.7376 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(DS1-~{RESX}-Pad38)")
+			(pinfunction "~{RESX}_38")
+			(pintype "input")
+			(uuid "f0014799-9901-4eb6-89cb-2a7ace53ab7a")
+		)
+		(pad "39" smd rect
+			(at -9.2456 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "LEDK")
+			(pinfunction "LEDK_39")
+			(pintype "passive")
+			(uuid "0e3f4994-296e-42b3-bea7-2c6dac5d1037")
+		)
+		(pad "40" smd rect
+			(at -9.7536 -3.429)
+			(size 0.3048 1.4986)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "LEDA")
+			(pinfunction "LEDA_40")
+			(pintype "passive")
+			(uuid "9aab73b0-2f06-442d-923a-7c185b853d11")
+		)
+		(pad "41" smd rect
+			(at -11.6332 -6.6802)
+			(size 1.8034 2.2098)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "c11ba43b-f14d-4927-babd-e53d0c3a5473")
+		)
+		(pad "42" smd rect
+			(at 11.6332 -6.6802)
+			(size 1.8034 2.2098)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(uuid "4f88eb54-8753-4a73-92ae-8292aed6df41")
+		)
+		(embedded_fonts no)
+		(model "FH12S-40S-0.5SH_55_.stp"
+			(offset
+				(xyz 5.709999952 7.409999736 2.059999912)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -180 90 -180)
+			)
+		)
+	)
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "117272e6-7730-4a50-9e88-9e37a6def9f5")
-		(at 194.75 70.825)
+		(at 205 200)
 		(property "Reference" "SW42"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -1970,7 +2598,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1984,8 +2612,14 @@
 		(path "/2ebc1f37-a2bb-4e8f-a836-9f062606bff8")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -2132,7 +2766,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -2142,7 +2776,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -2349,7 +2983,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "14655e41-0637-44a4-8cdc-8e460302eb86")
-		(at 240 30)
+		(at 205 230)
 		(property "Reference" "SW48"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -2383,7 +3017,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2397,8 +3031,14 @@
 		(path "/c530a230-cf45-40fe-b051-f17f1c49e08f")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -2545,7 +3185,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -2555,7 +3195,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -2604,7 +3244,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "14a0ea00-ce06-4f93-8b9b-29e4576736d5")
-		(at 194.75 123.675)
+		(at 98.820186 161.134198)
 		(property "Reference" "SW49"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -2638,7 +3278,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2657,14 +3297,21 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
 				)
 			)
 		)
 		(path "/ba9e111c-627e-493e-b712-3c36bf7d75eb")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -2870,7 +3517,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "14d4706b-25ba-4e4d-9351-ffa0dff3885e")
-		(at 194.75 63.275)
+		(at 195 200)
 		(property "Reference" "SW41"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -2904,7 +3551,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2918,8 +3565,14 @@
 		(path "/5a123820-b471-4a85-aaa9-53bcb8807b19")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -3125,7 +3778,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "1774afdd-f04f-43ce-9875-98ed4622fa0a")
-		(at 154.775 101.025)
+		(at 185 90)
 		(property "Reference" "SW16"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -3159,7 +3812,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3173,8 +3826,14 @@
 		(path "/e451cbe7-a771-41b7-ac03-1c6f432a7d31")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -3380,7 +4039,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "2101b890-dbd6-41f6-9707-304637e81076")
-		(at 141.45 85.925)
+		(at 185 70)
 		(property "Reference" "SW4"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -3414,7 +4073,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3428,8 +4087,14 @@
 		(path "/ac33ecc6-3335-46a7-9c1d-74866cba7bea")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -3635,7 +4300,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "2225a930-208f-43fc-ac2e-73935c12078c")
-		(at 154.775 70.825)
+		(at 205 80)
 		(property "Reference" "SW12"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -3669,7 +4334,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3683,8 +4348,14 @@
 		(path "/e2a0d9f6-eb8f-42b7-808a-5d8595d6bbb1")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -3831,7 +4502,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -3841,7 +4512,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -3890,7 +4561,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "22c05869-1ca0-44bd-8587-452b0f1072ef")
-		(at 141.45 93.475)
+		(at 195 70)
 		(property "Reference" "SW5"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -3924,7 +4595,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3938,8 +4609,14 @@
 		(path "/7c7e4601-3fbc-4030-b639-655b64c448c1")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -4145,7 +4822,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "2be0f67f-206c-4089-ad0b-3021f3d4fe59")
-		(at 168.1 78.375)
+		(at 195 100)
 		(property "Reference" "SW23"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -4179,7 +4856,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4193,8 +4870,14 @@
 		(path "/8b203cc6-d53a-474b-8e89-1c4c48f8bc7e")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -4400,7 +5083,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "308e9e7f-1de5-4e50-ba9f-fb5e1841fb49")
-		(at 141.45 108.575)
+		(at 135 80)
 		(property "Reference" "SW7"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -4434,7 +5117,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4448,8 +5131,14 @@
 		(path "/7a49ee8c-523e-4ee0-b7f0-da17cc1c29ef")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -4652,10 +5341,168 @@
 			)
 		)
 	)
+	(footprint "Capacitor_SMD:C_0402_1005Metric"
+		(layer "F.Cu")
+		(uuid "3e15a3c7-c789-416e-ae98-f4efcbcd7091")
+		(at 130.935 102.455)
+		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "capacitor")
+		(property "Reference" "C36"
+			(at 0 -1.16 0)
+			(layer "F.SilkS")
+			(uuid "cce1de69-aa4e-475d-8bf6-dec4d213d9e4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 0 1.16 0)
+			(layer "F.Fab")
+			(uuid "bd6effe2-d71a-4cab-9f42-e94fac743b26")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47fc9ca1-5255-4058-aa4d-e5d1fc4614a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e32c9eb-d3d7-4f3e-b71d-e42c434e5ad0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e0fdf326-1361-4653-8b15-1c40dd1f80be")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "C_*")
+		(path "/931417cf-fc90-4d77-9047-fd6c520b6077")
+		(sheetname "/")
+		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.107836 -0.36)
+			(end 0.107836 -0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "23fe58c1-a95d-4c55-a972-07b11314d6bf")
+		)
+		(fp_line
+			(start -0.107836 0.36)
+			(end 0.107836 0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "a12e2f32-947a-4624-8571-858912aa743a")
+		)
+		(fp_rect
+			(start -0.91 -0.46)
+			(end 0.91 0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "243a5b3e-ba8c-4827-8b8e-ac52a26733bb")
+		)
+		(fp_rect
+			(start -0.5 -0.25)
+			(end 0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "69041688-045e-4fa8-be42-aca6cf2a84ad")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "75ca9b25-7998-4fef-911e-00067ad7e7dc")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.48 0)
+			(size 0.56 0.62)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pintype "passive")
+			(uuid "514d3712-dcf1-4ffa-8465-bedcf28822d2")
+		)
+		(pad "2" smd roundrect
+			(at 0.48 0)
+			(size 0.56 0.62)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "VSYS")
+			(pintype "passive")
+			(uuid "b9a7649e-db52-430c-8ef8-56073a66b23b")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "3f7c64f8-f4fc-43bb-a1e4-c650d48d8190")
-		(at 168.1 63.275)
+		(at 175 100)
 		(property "Reference" "SW21"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -4689,7 +5536,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4703,8 +5550,14 @@
 		(path "/89a58db4-c7cf-4a03-85e2-4d469f7ea415")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -4910,7 +5763,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "404d05f9-a704-42a2-a983-6cb195822e42")
-		(at 154.775 108.575)
+		(at 195 90)
 		(property "Reference" "SW17"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -4944,7 +5797,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4958,8 +5811,14 @@
 		(path "/0472ddbb-bd81-4dcf-a9df-9986c185aee9")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -5165,7 +6024,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "45610d71-f76e-44cd-816c-b37da36f1059")
-		(at 168.1 101.025)
+		(at 155 140)
 		(property "Reference" "SW26"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -5199,7 +6058,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5213,8 +6072,14 @@
 		(path "/ff60e36f-c58d-47e7-a934-ce14f62b386b")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -6020,278 +6885,6 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
-		(layer "F.Cu")
-		(uuid "4fb045ce-7bb8-4ea9-971c-a42558e8fbd2")
-		(at 92.745 40.52)
-		(descr "module CMS SOT223 4 pins")
-		(tags "CMS SOT")
-		(property "Reference" "U2"
-			(at 0 -4.5 0)
-			(layer "F.SilkS")
-			(uuid "8d4ac4f8-f2d2-4e68-80dd-81d0879c0944")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "NCP1117-3.3_SOT223"
-			(at 0 4.5 0)
-			(layer "F.Fab")
-			(uuid "459a4a10-fe9b-4c66-92bd-bb74193c1067")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" "http://www.onsemi.com/pub_link/Collateral/NCP1117-D.PDF"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "36a01a38-26c1-4b38-8a14-334dd33a58dc")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" "1A Low drop-out regulator, Fixed Output 3.3V, SOT-223"
-			(at 0 0 0)
-			(unlocked yes)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "4db3eb5d-8544-48e2-b8c0-0f891ccbb9e0")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "SOT?223*TabPin2*")
-		(path "/f358c16d-e0fe-458e-8a10-884c3846ebcb")
-		(sheetname "/")
-		(sheetfile "calc-v2.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "3" "1" "2")
-			)
-		)
-		(attr smd)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.85 -3.41)
-			(end 1.91 -3.41)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b01b526b-6102-4554-9b15-7ec5e08aeaf0")
-		)
-		(fp_line
-			(start -1.85 3.41)
-			(end 1.91 3.41)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3b15b889-ef1b-473f-ae2b-749fbc695f39")
-		)
-		(fp_line
-			(start 1.91 -3.41)
-			(end 1.91 -2.15)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a7147e58-0256-4533-a49a-3cbc9a9676f8")
-		)
-		(fp_line
-			(start 1.91 3.41)
-			(end 1.91 2.15)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8c8d2509-0c8d-4462-af48-a444cf610cab")
-		)
-		(fp_poly
-			(pts
-				(xy -3.13 -3.31) (xy -3.37 -3.64) (xy -2.89 -3.64) (xy -3.13 -3.31)
-			)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(fill yes)
-			(layer "F.SilkS")
-			(uuid "c4f169bb-1e71-4c9d-bb0a-93885ca0fbb3")
-		)
-		(fp_line
-			(start -4.4 -3.6)
-			(end -4.4 3.6)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9e4a0f86-787c-4a1d-a1d7-2cdd49a1cbb3")
-		)
-		(fp_line
-			(start -4.4 3.6)
-			(end 4.4 3.6)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "f7286c53-a73f-4e26-a048-1ba3d0859274")
-		)
-		(fp_line
-			(start 4.4 -3.6)
-			(end -4.4 -3.6)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "34fc79b8-5caa-4986-b111-4fc4fe0d0885")
-		)
-		(fp_line
-			(start 4.4 3.6)
-			(end 4.4 -3.6)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "3addeccb-3bbc-4843-9dda-9f1d9cba1625")
-		)
-		(fp_line
-			(start -1.85 -2.35)
-			(end -1.85 3.35)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ea2a999c-64a7-493f-bd3a-ef7c4d07df9e")
-		)
-		(fp_line
-			(start -1.85 -2.35)
-			(end -0.85 -3.35)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "cc79aa89-db1f-462b-bc5e-d32f5e1dbe59")
-		)
-		(fp_line
-			(start -1.85 3.35)
-			(end 1.85 3.35)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "a2a10bfd-b012-47f0-b4f3-99f5d3ce596d")
-		)
-		(fp_line
-			(start -0.85 -3.35)
-			(end 1.85 -3.35)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "9349e6a2-604f-44b4-a8d0-ac851bc673f0")
-		)
-		(fp_line
-			(start 1.85 -3.35)
-			(end 1.85 3.35)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "31dc31d9-35ab-4cc8-9d77-fccabe2c647d")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(uuid "1bf12bd6-ed8d-4ff2-bc99-49075b9f425e")
-			(effects
-				(font
-					(size 0.8 0.8)
-					(thickness 0.12)
-				)
-			)
-		)
-		(pad "1" smd roundrect
-			(at -3.15 -2.3)
-			(size 2 1.5)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "GND")
-			(pinfunction "GND_1")
-			(pintype "power_in")
-			(uuid "f8971ee9-87ed-44dd-b5d1-301c80b0166c")
-		)
-		(pad "2" smd roundrect
-			(at -3.15 0)
-			(size 2 1.5)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "+3V3")
-			(pinfunction "VO_2")
-			(pintype "power_out")
-			(uuid "7af580b2-f2c1-4d53-afe1-b419dea2e05e")
-		)
-		(pad "2" smd roundrect
-			(at 3.15 0)
-			(size 2 3.8)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "+3V3")
-			(pinfunction "VO_2")
-			(pintype "power_out")
-			(uuid "fdbba5ab-b675-42e1-93a8-7e439e52e0e9")
-		)
-		(pad "3" smd roundrect
-			(at -3.15 2.3)
-			(size 2 1.5)
-			(layers "F.Cu" "F.Mask" "F.Paste")
-			(roundrect_rratio 0.25)
-			(net "VSYS")
-			(pinfunction "VI_3")
-			(pintype "power_in")
-			(uuid "db6af68c-0901-413f-869c-c8026f1ff8ce")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "513e4147-8258-432a-9698-a0e9d30eef66")
@@ -6453,7 +7046,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "527e0b8c-27d3-4e5a-b5cc-a86301e621d5")
-		(at 154.775 63.275)
+		(at 195 80)
 		(property "Reference" "SW11"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -6487,7 +7080,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6501,8 +7094,14 @@
 		(path "/e0e19289-7597-4772-a97d-429283deee05")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -6866,7 +7465,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "5c37f027-989b-44a2-83f4-094aa36965f3")
-		(at 181.425 131.225)
+		(at 185 200)
 		(property "Reference" "SW40"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -6900,7 +7499,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6914,8 +7513,14 @@
 		(path "/887c1afe-8dc6-491c-bc1f-8984069b3011")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -7799,7 +8404,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "600efaba-579d-4971-8967-99c49153d902")
-		(at 141.45 116.125)
+		(at 155 80)
 		(property "Reference" "SW8"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -7833,7 +8438,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7847,8 +8452,14 @@
 		(path "/217e3398-80e6-4b92-afcd-4ae446fc3fb4")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -8869,6 +9480,17 @@
 				)
 			)
 		)
+		(property "LCSC" "C42411119"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "bb47a096-cf53-4773-8235-202dc18d67f4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(path "/5485a2e7-f5ed-46db-9839-854687efaa33")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
@@ -9051,6 +9673,164 @@
 			)
 			(rotate
 				(xyz 0 0 -180)
+			)
+		)
+	)
+	(footprint "Capacitor_SMD:C_0402_1005Metric"
+		(layer "F.Cu")
+		(uuid "6bc6a9c0-bfe2-463b-97cc-a6a2ac9885a6")
+		(at 130.935 100.485)
+		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "capacitor")
+		(property "Reference" "C35"
+			(at 0 -1.16 0)
+			(layer "F.SilkS")
+			(uuid "9406a539-7f56-4d6e-902e-7e8bf6819a5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 0 1.16 0)
+			(layer "F.Fab")
+			(uuid "efdf19a7-dd8c-40ee-a4fc-bafce9e33925")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "970e0938-e58b-4541-a675-5407098dfa5f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "89b7987f-7108-4647-81d7-7403ef36f06a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "5ae792b2-36e1-4498-ab7b-1a07d8d36edc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "C_*")
+		(path "/3dad92fb-e51b-40c4-8fa5-b4997c6a56f1")
+		(sheetname "/")
+		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.107836 -0.36)
+			(end 0.107836 -0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "ec3d7bee-ac06-4575-a68e-0782a341d88b")
+		)
+		(fp_line
+			(start -0.107836 0.36)
+			(end 0.107836 0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "fa216afe-f55d-49e2-93de-0aa35e169cac")
+		)
+		(fp_rect
+			(start -0.91 -0.46)
+			(end 0.91 0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "6129e786-3f10-4314-8e48-087d7c4f8311")
+		)
+		(fp_rect
+			(start -0.5 -0.25)
+			(end 0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "188b7fdb-722d-4f08-a8d2-73b7bff3c48c")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "c726be85-e51e-435c-bcca-5502cd176122")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.48 0)
+			(size 0.56 0.62)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pintype "passive")
+			(uuid "8643563e-6657-4211-9a52-1d2bef28d3cc")
+		)
+		(pad "2" smd roundrect
+			(at 0.48 0)
+			(size 0.56 0.62)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "VSYS")
+			(pintype "passive")
+			(uuid "c7074e83-137d-4b46-8ee7-63b624cd0330")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
 			)
 		)
 	)
@@ -9531,7 +10311,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "76f826e9-5e37-4028-a758-b07677953aa0")
-		(at 181.425 63.275)
+		(at 135 170)
 		(property "Reference" "SW31"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -9565,7 +10345,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9579,8 +10359,14 @@
 		(path "/9bb57b2d-94e7-495a-b923-53f6755b2b27")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -9783,10 +10569,168 @@
 			)
 		)
 	)
+	(footprint "Capacitor_SMD:C_0402_1005Metric"
+		(layer "F.Cu")
+		(uuid "78367265-e6d1-4486-a380-f4964fe93c0d")
+		(at 130.935 104.425)
+		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
+		(tags "capacitor")
+		(property "Reference" "C37"
+			(at 0 -1.16 0)
+			(layer "F.SilkS")
+			(uuid "0e749d2a-8d51-4311-9d1c-b4a97cefbb5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "22u"
+			(at 0 1.16 0)
+			(layer "F.Fab")
+			(uuid "2d5ad0ff-7b4b-455d-9244-fc66d8aa96f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1e65ff85-8b20-477a-a661-9f097dbaa694")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d874e870-d5f9-4629-9bae-e5686cc6c866")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "1e9861dc-f0e2-443f-9099-e72c89919a33")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "C_*")
+		(path "/2589dc64-8afa-41ef-8344-c6f234862204")
+		(sheetname "/")
+		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start -0.107836 -0.36)
+			(end 0.107836 -0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cef4b62a-a418-4092-9751-1c545b66bc25")
+		)
+		(fp_line
+			(start -0.107836 0.36)
+			(end 0.107836 0.36)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "cb58999e-dff1-4842-8ff8-6ed8cb84771e")
+		)
+		(fp_rect
+			(start -0.91 -0.46)
+			(end 0.91 0.46)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "0d7d2fd0-2772-4526-b01f-649fa9835612")
+		)
+		(fp_rect
+			(start -0.5 -0.25)
+			(end 0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "206e4a58-e6f7-4a89-a2c1-c76b19902562")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "b0cbb599-67dc-41ff-90e5-a50664dc8ad6")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.48 0)
+			(size 0.56 0.62)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "GND")
+			(pintype "passive")
+			(uuid "50060eac-ecdf-4000-9105-3e7b428e4245")
+		)
+		(pad "2" smd roundrect
+			(at 0.48 0)
+			(size 0.56 0.62)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "+3V3")
+			(pintype "passive")
+			(uuid "75a718a0-e5d7-4e5c-95cb-e45376159a85")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0402_1005Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "7d61b3ae-3c7e-422e-950d-37bb11d752e1")
-		(at 154.775 116.125)
+		(at 205 90)
 		(property "Reference" "SW18"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -9820,7 +10764,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -9834,8 +10778,14 @@
 		(path "/ba4a9db3-d95a-47dc-8548-ed81c7a22512")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -9982,7 +10932,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -9992,7 +10942,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -10041,7 +10991,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "8353cfef-0072-4166-80ed-dc6ba67fdc25")
-		(at 141.45 63.275)
+		(at 135 70)
 		(property "Reference" "SW1"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -10075,7 +11025,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10089,8 +11039,14 @@
 		(path "/593702a3-c5df-4e96-8dd2-f512591a9377")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -10296,7 +11252,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "84275615-e51f-4c7c-aa73-fbdb0bda91f5")
-		(at 296.36 30)
+		(at 155 230)
 		(property "Reference" "SW44"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -10330,7 +11286,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10344,8 +11300,14 @@
 		(path "/f2ec6455-5a61-4508-97bf-9322df7338db")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -10709,7 +11671,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "89588e5e-c639-4a97-82ee-741af4a6727c")
-		(at 154.775 93.475)
+		(at 175 90)
 		(property "Reference" "SW15"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -10743,7 +11705,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10757,8 +11719,14 @@
 		(path "/05a8a682-86f1-4dc6-8ed3-2bbe751ee922")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -11000,7 +11968,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CCTC TCC0603X5R475K250CT"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11122,7 +12090,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "8f9c9801-3f50-451c-8a1f-be36436e0efb")
-		(at 168.1 93.475)
+		(at 135 140)
 		(property "Reference" "SW25"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -11156,7 +12124,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -11170,8 +12138,14 @@
 		(path "/7638d4e1-1aa9-459e-83ff-07befdc851f1")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -12009,7 +12983,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "9a8a9c7b-d969-4b34-b3a6-48611a947544")
-		(at 168.1 123.675)
+		(at 195 140)
 		(property "Reference" "SW29"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -12043,7 +13017,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12057,8 +13031,14 @@
 		(path "/fdee37dd-af0f-465e-a57d-ff93e2a0a516")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -12264,7 +13244,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "9b592dfc-94dd-4866-8ce3-60f0837f6a57")
-		(at 168.1 85.925)
+		(at 205 100)
 		(property "Reference" "SW24"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -12298,7 +13278,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12312,8 +13292,14 @@
 		(path "/1593368e-d485-4e70-ad50-ee587869b903")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -12460,7 +13446,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -12470,7 +13456,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -12519,7 +13505,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "9bb6889e-7c87-423e-aa1c-06f44acac491")
-		(at 254.09 30)
+		(at 199.55 230)
 		(property "Reference" "SW47"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -12553,7 +13539,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12567,8 +13553,14 @@
 		(path "/ce7585c5-241e-47c1-bcb6-cb6faf5082a2")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -12774,7 +13766,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "9d497d60-ca44-4329-89bb-ed426ba57c35")
-		(at 181.425 85.925)
+		(at 185 170)
 		(property "Reference" "SW34"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -12808,7 +13800,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -12822,8 +13814,14 @@
 		(path "/9c926652-80cd-45de-8680-113368b31f7b")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -13029,7 +14027,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "9fcadb3d-a095-4852-8d6c-92ce175c2434")
-		(at 141.45 131.225)
+		(at 185 80)
 		(property "Reference" "SW10"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -13063,7 +14061,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13077,8 +14075,14 @@
 		(path "/4da3b0c8-320c-469a-971f-6d3af3063541")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -13284,7 +14288,7 @@
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "a13e29e6-95f6-4d6d-b579-e6bd48404a9e")
-		(at 81.675 31.395)
+		(at -14.254814 68.854198)
 		(descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "capacitor")
 		(property "Reference" "C26"
@@ -13442,7 +14446,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "a2949005-c05c-4d57-b9e5-2c0f7a11bab4")
-		(at 154.775 123.675)
+		(at 135 100)
 		(property "Reference" "SW19"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -13476,7 +14480,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13490,8 +14494,14 @@
 		(path "/dc565287-8edd-4ea5-82d5-c0b3b979e3df")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -13697,7 +14707,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "a5b5fda6-1d03-4d57-8feb-2c914a92479d")
-		(at 168.1 116.125)
+		(at 185 140)
 		(property "Reference" "SW28"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -13731,7 +14741,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13745,8 +14755,14 @@
 		(path "/c0b50b79-45df-4fdc-9d48-1c439a0f8945")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -13949,10 +14965,181 @@
 			)
 		)
 	)
+	(footprint "Diode_SMD:D_0402_1005Metric"
+		(layer "F.Cu")
+		(uuid "a84d7fb3-0f65-4323-b355-1335917d5a0f")
+		(at 96.19 113.045)
+		(descr "Diode SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
+		(tags "diode")
+		(property "Reference" "D5"
+			(at 0 -1.17 0)
+			(layer "F.SilkS")
+			(uuid "efbcda73-459f-485a-82ea-dd6f9db39501")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "D_Schottky"
+			(at 0 1.17 0)
+			(layer "F.Fab")
+			(uuid "c79d776e-10f8-4d86-8d95-fab69c9a812f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c39beedd-057a-485c-a4de-94fbd6d33dfe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "MDD(Microdiode Semiconductor) SS54"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e54321a3-4a19-4ca2-8da3-f196a647cecb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "e6888720-3608-49b7-b95e-c6c7c3b0330f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
+		(path "/0e0b1c40-ef61-4e62-accb-df77420c850e")
+		(sheetname "/")
+		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_circle
+			(center -1.09 0)
+			(end -1.04 0)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "0d2d3927-9a78-4a31-a3aa-50b6c106e641")
+		)
+		(fp_rect
+			(start -0.93 -0.47)
+			(end 0.93 0.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.CrtYd")
+			(uuid "1d82aa6d-4c73-46d7-8f65-3aeaf365f9be")
+		)
+		(fp_line
+			(start -0.4 0.25)
+			(end -0.4 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "bd0eb194-9016-4f53-8580-01cba729768d")
+		)
+		(fp_line
+			(start -0.3 0.25)
+			(end -0.3 -0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "90d00057-6f53-4e03-a83d-ae0a1afe06a8")
+		)
+		(fp_rect
+			(start -0.5 -0.25)
+			(end 0.5 0.25)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.Fab")
+			(uuid "543cba6b-bb7e-40f6-a06a-21d24f6795a5")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "476adef7-ec18-4274-813c-a7dc8a41bc16")
+			(effects
+				(font
+					(size 0.25 0.25)
+					(thickness 0.04)
+				)
+			)
+		)
+		(pad "1" smd roundrect
+			(at -0.485 0)
+			(size 0.59 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "LEDA")
+			(pinfunction "K_1")
+			(pintype "passive")
+			(uuid "742a6e75-273b-489d-b608-a6c7b78b06bd")
+		)
+		(pad "2" smd roundrect
+			(at 0.485 0)
+			(size 0.59 0.64)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(roundrect_rratio 0.25)
+			(net "Net-(D5-A)")
+			(pinfunction "A_2")
+			(pintype "passive")
+			(uuid "3529a268-bc91-44ec-b0ce-8fe26b0dcd7e")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_0402_1005Metric.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "ae7ccf52-6458-40ea-8b2c-3666c39ecf7f")
-		(at 282.27 30)
+		(at 175 230)
 		(property "Reference" "SW45"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -13986,7 +15173,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14000,8 +15187,14 @@
 		(path "/58b66aed-1a44-4778-ad03-334780a72712")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -14207,7 +15400,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "b082d536-6e01-452a-b811-4b725ccb02b0")
-		(at 181.425 123.675)
+		(at 175 200)
 		(property "Reference" "SW39"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -14241,7 +15434,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14255,8 +15448,14 @@
 		(path "/08ec3f6f-da5f-4212-8847-aacfd038df71")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -14462,7 +15661,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "b6196717-a41d-445e-b439-a975e7c67330")
-		(at 141.45 70.825)
+		(at 155 70)
 		(property "Reference" "SW2"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -14496,7 +15695,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14510,8 +15709,14 @@
 		(path "/a92a9618-bf2e-4287-8e01-7a493eb0c893")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -14875,7 +16080,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "bfd473c7-0b55-46d0-9def-cc8ea5cde624")
-		(at 154.775 85.925)
+		(at 155 90)
 		(property "Reference" "SW14"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -14909,7 +16114,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -14923,8 +16128,14 @@
 		(path "/502f5dbb-7e3e-4e4b-a0cb-5a5273c5e7f9")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -15443,6 +16654,486 @@
 			)
 		)
 	)
+	(footprint "AAAAA:QFN50P300X400X80-21N"
+		(layer "F.Cu")
+		(uuid "ca3f7e15-ceb2-4622-9b30-8bc96aef43bf")
+		(at 32.15 57.65)
+		(descr "L20.3x4A")
+		(tags "Integrated Circuit")
+		(property "Reference" "IC1"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(uuid "b055624d-ec78-4b47-912a-0013029e74ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Value" "ISL91107IRTNZ-T"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "04ab3e2b-f5d5-4d5f-a699-476d52020b81")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.renesas.com/en-us/www/doc/datasheet/isl91107ir.pdf"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a24be607-706c-47e5-84a0-096d032f31c4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "The ISL91107IR is a highly-integrated buck-boost switching regulator that accepts input voltages either above or below the regulated output voltage. Unlike other buck-boost regulators, this regulator automatically transitions between operating modes without significant output disturbance.This device is capable of delivering up to 2A of output current (PVIN = 2.8V, VOUT = 3.3V) and provides excellent efficiency due to its fully synchronous 4-switch architecture. No-load quiescent current of only 45A also op"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b12b7ea9-6dc7-43da-a3e4-2717e2e09390")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Height" "0.8"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a7920ee1-64cb-4d61-9c6d-1ed3589b6ba5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "Renesas Electronics"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1f6efc0-775f-4f17-bfcf-b3abd4ccf864")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ISL91107IRTNZ-T"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b015d0c-8758-4146-a5c7-a9cc4742c8b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Part Number" "968-ISL91107IRTNZ-T"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "481a1263-bf78-4feb-b5b4-370bd6eb5135")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Renesas-Intersil/ISL91107IRTNZ-T?qs=Fg5TsMy7H4uc%2Flyo1R9Rlw%3D%3D"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8f223b5-a8eb-4b9e-8855-6ff2e9d15b6b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "106ac6f1-8af1-423d-9184-0f840db569a2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d773875-766d-4306-981b-001d513f03f6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC" "C2071659"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "54ab3989-641b-457a-83e6-f72eb1a5b182")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(path "/ed188dfb-82ce-4649-b6ea-dd74e3ff6288")
+		(sheetname "/")
+		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "21" "7" "20" "8" "19" "9" "18" "10" "17"
+					"16" "15" "14" "13" "12" "11"
+				)
+			)
+		)
+		(attr smd)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_circle
+			(center -1.9 -2)
+			(end -1.9 -1.875)
+			(stroke
+				(width 0.25)
+				(type solid)
+			)
+			(fill no)
+			(layer "F.SilkS")
+			(uuid "7a376ddd-f15b-48d0-b584-d12f419288d7")
+		)
+		(fp_line
+			(start -2.125 -2.625)
+			(end 2.125 -2.625)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "18042b40-16d6-4c2d-bf9d-1d38b253adda")
+		)
+		(fp_line
+			(start -2.125 2.625)
+			(end -2.125 -2.625)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "97096a6f-c86e-4d0b-a582-9b4f505d95ce")
+		)
+		(fp_line
+			(start 2.125 -2.625)
+			(end 2.125 2.625)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "8fb3d68c-9d44-4bcf-a9f5-fbe3b5ebb046")
+		)
+		(fp_line
+			(start 2.125 2.625)
+			(end -2.125 2.625)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.CrtYd")
+			(uuid "98836e72-dc6a-4a89-978c-6b9465ee1bf4")
+		)
+		(fp_line
+			(start -1.5 -2)
+			(end 1.5 -2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "7c708758-9aff-4cd2-9cfa-4907349b0aab")
+		)
+		(fp_line
+			(start -1.5 -1.5)
+			(end -1 -2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a8b3a2b2-75b7-478a-9e9d-f87fa21e7611")
+		)
+		(fp_line
+			(start -1.5 2)
+			(end -1.5 -2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "a85441bb-332a-4a85-8971-9d6019f4f6a6")
+		)
+		(fp_line
+			(start 1.5 -2)
+			(end 1.5 2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "dd49b002-01ef-476b-887b-d9da98a2bd34")
+		)
+		(fp_line
+			(start 1.5 2)
+			(end -1.5 2)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "F.Fab")
+			(uuid "e1f4b313-3c36-415e-8d7d-eb9b8daddf60")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(uuid "232652d9-f9fc-4062-815e-0d1b82c80391")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+				)
+			)
+		)
+		(pad "1" smd rect
+			(at -1.5 -1.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "Net-(IC1-LX2_1)")
+			(pinfunction "LX2_1_1")
+			(pintype "passive")
+			(uuid "8cb48394-f53d-46f6-905a-ade0a8b5892a")
+		)
+		(pad "2" smd rect
+			(at -1.5 -0.75 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "Net-(IC1-LX2_2)")
+			(pinfunction "LX2_2_2")
+			(pintype "passive")
+			(uuid "9e05a260-15fa-4b7e-abf1-9a274b4fddd8")
+		)
+		(pad "3" smd rect
+			(at -1.5 -0.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "PGND_1_3")
+			(pintype "passive")
+			(uuid "6bf24572-6f12-4fe7-8474-39b2a5f8c17a")
+		)
+		(pad "4" smd rect
+			(at -1.5 0.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "PGND_2_4")
+			(pintype "passive")
+			(uuid "9b7c3057-f718-45ba-9b68-92f76af8604b")
+		)
+		(pad "5" smd rect
+			(at -1.5 0.75 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(IC1-LX1_1-Pad5)")
+			(pinfunction "LX1_1_5")
+			(pintype "passive+no_connect")
+			(uuid "301a5989-b2a2-43d5-b929-1c7a086fd147")
+		)
+		(pad "6" smd rect
+			(at -1.5 1.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(IC1-LX1_2-Pad6)")
+			(pinfunction "LX1_2_6")
+			(pintype "passive+no_connect")
+			(uuid "64f7e604-408a-48cd-89f8-de64d4bd17d1")
+		)
+		(pad "7" smd rect
+			(at -0.75 2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "VSYS")
+			(pinfunction "PVIN_1_7")
+			(pintype "passive")
+			(uuid "3263c85e-d369-447b-b9fd-00a123d2f061")
+		)
+		(pad "8" smd rect
+			(at -0.25 2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "VSYS")
+			(pinfunction "PVIN_2_8")
+			(pintype "passive")
+			(uuid "a3103218-ce4f-4c4b-aaac-45279f8cee71")
+		)
+		(pad "9" smd rect
+			(at 0.25 2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "VSYS")
+			(pinfunction "PVIN_3_9")
+			(pintype "passive")
+			(uuid "9547b943-6a11-4450-a9f0-7878ff709841")
+		)
+		(pad "10" smd rect
+			(at 0.75 2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "VSYS")
+			(pinfunction "PVIN_4_10")
+			(pintype "passive")
+			(uuid "4b366e3f-7a1a-41d1-a6ec-239803e997a2")
+		)
+		(pad "11" smd rect
+			(at 1.5 1.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "unconnected-(IC1-NC-Pad11)")
+			(pinfunction "NC_11")
+			(pintype "no_connect")
+			(uuid "5e3db182-2b5f-4fb8-aec0-3b9b945ff65c")
+		)
+		(pad "12" smd rect
+			(at 1.5 0.75 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "VSYS")
+			(pinfunction "VIN_12")
+			(pintype "passive")
+			(uuid "d36f5ae3-4283-475d-8880-605f16d75c01")
+		)
+		(pad "13" smd rect
+			(at 1.5 0.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "VSYS")
+			(pinfunction "EN_13")
+			(pintype "passive")
+			(uuid "328165da-ae0f-4f1d-a707-50912e11c222")
+		)
+		(pad "14" smd rect
+			(at 1.5 -0.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "VSYS")
+			(pinfunction "MODE_14")
+			(pintype "passive")
+			(uuid "5133ccda-1043-4a7e-b5fd-b13413916618")
+		)
+		(pad "15" smd rect
+			(at 1.5 -0.75 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "SGND_15")
+			(pintype "passive")
+			(uuid "255d3c22-4a40-4c0d-88a3-a7fc49e3bf21")
+		)
+		(pad "16" smd rect
+			(at 1.5 -1.25 90)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "+3V3")
+			(pinfunction "FB_16")
+			(pintype "passive")
+			(uuid "0608d4d9-5f74-4508-9ea5-f859561f7893")
+		)
+		(pad "17" smd rect
+			(at 0.75 -2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "+3V3")
+			(pinfunction "VOUT_1_17")
+			(pintype "passive")
+			(uuid "b90d1bb2-7b3e-4957-ab59-2c999a6f2af6")
+		)
+		(pad "18" smd rect
+			(at 0.25 -2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "+3V3")
+			(pinfunction "VOUT_2_18")
+			(pintype "passive")
+			(uuid "7437f74d-cf12-4c59-8527-5d62d17aad6a")
+		)
+		(pad "19" smd rect
+			(at -0.25 -2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "+3V3")
+			(pinfunction "VOUT_3_19")
+			(pintype "passive")
+			(uuid "716139e8-dc4f-467a-9875-9ebe02f9f8d4")
+		)
+		(pad "20" smd rect
+			(at -0.75 -2)
+			(size 0.3 0.8)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "+3V3")
+			(pinfunction "VOUT_4_20")
+			(pintype "passive")
+			(uuid "015a263f-1845-48d2-93b9-ca16b519d537")
+		)
+		(pad "21" smd rect
+			(at 0 0)
+			(size 1.75 2.75)
+			(layers "F.Cu" "F.Mask" "F.Paste")
+			(net "GND")
+			(pinfunction "EPAD_21")
+			(pintype "passive")
+			(uuid "228c8513-22c5-40cd-a5d3-e62b5ee3f171")
+		)
+		(embedded_fonts no)
+		(model "ISL91107IRTNZ-T.stp"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
 	(footprint "Capacitor_SMD:C_0402_1005Metric"
 		(layer "F.Cu")
 		(uuid "cac4061d-4908-4806-be5b-652d9eb37018")
@@ -15604,7 +17295,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "cb2c0ce7-cccb-42c2-81e9-0cea3ace5fb7")
-		(at 168.1 108.575)
+		(at 175 140)
 		(property "Reference" "SW27"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -15638,7 +17329,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15652,8 +17343,14 @@
 		(path "/9b272076-667a-4545-97a3-7e269626ac2f")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -15859,7 +17556,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "cbf7c84a-3082-414d-a624-4484b85d045b")
-		(at 141.45 123.675)
+		(at 175 80)
 		(property "Reference" "SW9"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -15893,7 +17590,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15907,8 +17604,14 @@
 		(path "/59e44298-f827-49c3-a68f-23400d4a8222")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -16114,7 +17817,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "ccccc432-6460-4718-91a4-7309a3c8e3bf")
-		(at 181.425 116.125)
+		(at 155 200)
 		(property "Reference" "SW38"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -16148,7 +17851,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16162,8 +17865,14 @@
 		(path "/14ce1351-9689-4385-aa6a-41786ca09401")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -16527,7 +18236,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "d7edf14a-4f06-4d71-9912-70e2d3eb57bb")
-		(at 154.775 131.225)
+		(at 155 100)
 		(property "Reference" "SW20"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -16561,7 +18270,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16575,8 +18284,14 @@
 		(path "/e7518b93-d825-4c02-a125-c4b54cc12283")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -16782,7 +18497,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "dd32ec60-f999-4c64-af49-184e75c740be")
-		(at 181.425 93.475)
+		(at 195 170)
 		(property "Reference" "SW35"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -16816,7 +18531,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -16830,8 +18545,14 @@
 		(path "/6b714e1b-530d-49e2-9924-92c3f27515df")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -17037,7 +18758,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "dd4e3d67-a265-4f3e-a12e-77438f923d19")
-		(at 141.45 101.025)
+		(at 205 70)
 		(property "Reference" "SW6"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -17071,7 +18792,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -17085,8 +18806,14 @@
 		(path "/20f3b5d3-aeea-4efd-9a83-89521a10b18d")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -17233,7 +18960,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -17243,7 +18970,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -17328,7 +19055,7 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "YAGEO CC0603KRX7R9BB104"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18897,7 +20624,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "e6db0045-fb85-4d36-b4cd-0beb3c1f31ef")
-		(at 181.425 108.575)
+		(at 135 200)
 		(property "Reference" "SW37"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -18931,7 +20658,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18945,8 +20672,14 @@
 		(path "/83777be7-6365-4a33-bc97-3da5c0cf60bd")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -19152,7 +20885,7 @@
 	(footprint "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 		(layer "F.Cu")
 		(uuid "f621dde9-0834-480b-84dd-65841423ee5a")
-		(at 91.155 28.03)
+		(at -4.774814 65.489198)
 		(descr "SOIC, 8 Pin (JEITA/EIAJ ED-7311-19 variation 08-001-BBA and Atmel/Microchip, 208 mils width, https://www.jeita.or.jp/japanese/standard/book/ED-7311-19/#target/page_no=21, https://ww1.microchip.com/downloads/en/DeviceDoc/20005045C.pdf#page=23, https://ww1.microchip.com/downloads/en/DeviceDoc/doc2535.pdf#page=162)")
 		(tags "SOIC SO P-SOP SOP SOP-8 SO SO-8 8S2 S2AE/F K04-056 CASE-751BE SO8W 8-Pin-SOIC PSA W8-2 W8-4 W8MS-1 FPT-8P-M08")
 		(property "Reference" "U1"
@@ -19534,7 +21267,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "fbf7514f-72d5-4d27-ac8f-bdbd82b28957")
-		(at 181.425 78.375)
+		(at 175 170)
 		(property "Reference" "SW33"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -19568,7 +21301,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19582,8 +21315,14 @@
 		(path "/91c5322a-d10f-4797-94fb-e5341617ec27")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -19789,7 +21528,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "fef76710-3c22-4f37-afe0-ca3c9e45601a")
-		(at 181.425 101.025)
+		(at 205 170)
 		(property "Reference" "SW36"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -19823,7 +21562,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19837,8 +21576,14 @@
 		(path "/18db5618-2ab2-4068-ae24-b513f36dcd70")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -19985,7 +21730,7 @@
 			(at -4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -19995,7 +21740,7 @@
 			(at 4.55 -2.25)
 			(size 2.1 1.4)
 			(layers "F.Cu" "F.Mask" "F.Paste")
-			(net "Net-(SW12-Pad1)")
+			(net "SW_C6")
 			(pinfunction "1_1")
 			(pintype "passive")
 			(solder_mask_margin 0.102)
@@ -20044,7 +21789,7 @@
 	(footprint "AAAAA:SW_TS04-66-43-BK-100-SMT"
 		(layer "F.Cu")
 		(uuid "ff8473fe-1da7-4860-9218-ae6bb28c6df6")
-		(at 310.45 30)
+		(at 135 230)
 		(property "Reference" "SW43"
 			(at -2.675 -4.385 0)
 			(layer "F.SilkS")
@@ -20078,7 +21823,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -20092,8 +21837,14 @@
 		(path "/e102fb07-eeab-4b3d-bb09-a5418b8a7a9e")
 		(sheetname "/")
 		(sheetfile "calc-v2.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr smd)
-		(duplicate_pad_numbers_are_jumpers yes)
+		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3 -3)
 			(end -3 3)
@@ -20335,6 +22086,81 @@
 		(layer "F.Cu")
 		(net "SW_R8")
 		(uuid "f3c835d8-084d-4ebc-aacd-c6f75c96e58c")
+	)
+	(group ""
+		(uuid "474a4e9f-7811-44c7-b0b8-184d1506f788")
+		(members "038e5069-4291-48cc-b2c4-9119d2e1238c" "055a2de6-22f6-4653-8d55-17db636353bd"
+			"07518cff-cc6d-4e6b-87cd-e949a17540cc" "077db500-6517-4751-aa85-efac10f2ea62"
+			"0c5985d9-028c-4ba0-8f8d-d5d2d4f7b5ee" "0c8f7abf-6884-4d3b-a0b9-7f1fbce3a168"
+			"117272e6-7730-4a50-9e88-9e37a6def9f5" "14655e41-0637-44a4-8cdc-8e460302eb86"
+			"14d4706b-25ba-4e4d-9351-ffa0dff3885e" "1774afdd-f04f-43ce-9875-98ed4622fa0a"
+			"2101b890-dbd6-41f6-9707-304637e81076" "2225a930-208f-43fc-ac2e-73935c12078c"
+			"22c05869-1ca0-44bd-8587-452b0f1072ef" "2be0f67f-206c-4089-ad0b-3021f3d4fe59"
+			"308e9e7f-1de5-4e50-ba9f-fb5e1841fb49" "3f7c64f8-f4fc-43bb-a1e4-c650d48d8190"
+			"404d05f9-a704-42a2-a983-6cb195822e42" "45610d71-f76e-44cd-816c-b37da36f1059"
+			"527e0b8c-27d3-4e5a-b5cc-a86301e621d5" "5c37f027-989b-44a2-83f4-094aa36965f3"
+			"600efaba-579d-4971-8967-99c49153d902" "76f826e9-5e37-4028-a758-b07677953aa0"
+			"7d61b3ae-3c7e-422e-950d-37bb11d752e1" "8353cfef-0072-4166-80ed-dc6ba67fdc25"
+			"84275615-e51f-4c7c-aa73-fbdb0bda91f5" "89588e5e-c639-4a97-82ee-741af4a6727c"
+			"8f9c9801-3f50-451c-8a1f-be36436e0efb" "9a8a9c7b-d969-4b34-b3a6-48611a947544"
+			"9b592dfc-94dd-4866-8ce3-60f0837f6a57" "9bb6889e-7c87-423e-aa1c-06f44acac491"
+			"9d497d60-ca44-4329-89bb-ed426ba57c35" "9fcadb3d-a095-4852-8d6c-92ce175c2434"
+			"a2949005-c05c-4d57-b9e5-2c0f7a11bab4" "a5b5fda6-1d03-4d57-8feb-2c914a92479d"
+			"ae7ccf52-6458-40ea-8b2c-3666c39ecf7f" "b082d536-6e01-452a-b811-4b725ccb02b0"
+			"b6196717-a41d-445e-b439-a975e7c67330" "bfd473c7-0b55-46d0-9def-cc8ea5cde624"
+			"cb2c0ce7-cccb-42c2-81e9-0cea3ace5fb7" "cbf7c84a-3082-414d-a624-4484b85d045b"
+			"ccccc432-6460-4718-91a4-7309a3c8e3bf" "d7edf14a-4f06-4d71-9912-70e2d3eb57bb"
+			"dd32ec60-f999-4c64-af49-184e75c740be" "dd4e3d67-a265-4f3e-a12e-77438f923d19"
+			"e6db0045-fb85-4d36-b4cd-0beb3c1f31ef" "fbf7514f-72d5-4d27-ac8f-bdbd82b28957"
+			"fef76710-3c22-4f37-afe0-ca3c9e45601a" "ff8473fe-1da7-4860-9218-ae6bb28c6df6"
+		)
+	)
+	(group ""
+		(uuid "5c24ae5a-5dde-4e6e-87fb-6427f1ec705a")
+		(members "4b2ceb9d-ff4c-489e-b09f-6945136cceb6" "8df153e2-b623-4b7b-8004-7eb824d1551e"
+			"ba85f247-0ead-4cba-97fe-7a1ae1be4681" "c22f4102-4fe0-40c0-9d3a-19f4303912c6"
+		)
+	)
+	(group ""
+		(uuid "98034131-0f2e-4b68-b4ae-6c73f732fb1e")
+		(members "5f85cda1-3454-45c4-bd6d-f2ffa4b1c421" "66ac2117-3de7-459b-9222-51a01b8322a2"
+			"cac4061d-4908-4806-be5b-652d9eb37018"
+		)
+	)
+	(group ""
+		(uuid "b7a57118-51b7-4118-a2e3-7a1dc7b966e9")
+		(members "3e15a3c7-c789-416e-ae98-f4efcbcd7091" "6bc6a9c0-bfe2-463b-97cc-a6a2ac9885a6"
+			"78367265-e6d1-4486-a380-f4964fe93c0d" "ca3f7e15-ceb2-4622-9b30-8bc96aef43bf"
+		)
+	)
+	(group ""
+		(uuid "b94114a0-457e-48d9-8071-ced7674073a9")
+		(members "1276c3b9-9af1-46ce-ae09-9668607daf05" "513e4147-8258-432a-9698-a0e9d30eef66"
+			"5bbf8f9d-986a-4a63-a650-5187bfa28170" "5ce1a64d-af43-42cf-89ad-b8e687ea7c01"
+			"6aa33605-61c2-4c55-8ffb-f70512b637ac" "7421dc27-c94a-4690-9422-e1fb96e8a1f4"
+			"8885334d-79af-44c6-a7cb-a7fc9a1db264" "8fed21f8-f72d-4e4a-bdaf-036d9786554b"
+			"91a906a0-647b-44ac-946d-01472f664fc7" "c876149b-3187-4cb5-b346-7b63e3e22e53"
+			"d0e4b2ed-b60e-4d82-bcb8-789c9602551d" "e08ae581-5feb-4455-85ea-aa3ff56e0973"
+			"e0cc9d1d-37ca-45fb-ab2d-90d278e27aaf"
+		)
+	)
+	(group ""
+		(uuid "d83da0db-d5bf-4aa5-b22e-8242264b3799")
+		(members "6bd6a6c8-4d47-4b75-9ad6-93d4df8b0663" "6d4e6bf5-0753-40a5-9be7-be077d6d8876"
+			"9622e87a-6ba4-4fb6-b5d0-c4b7d4a97449"
+		)
+	)
+	(group ""
+		(uuid "f24f62be-b1ae-478c-85f4-2d1836d02f91")
+		(members "05b07c22-f827-42d3-84b7-1b852456ac60" "5e0dc782-6f30-4bef-93cf-f727fcbe7785"
+			"6405883d-1ddf-4ada-889a-22e660112f5a" "e00f73b0-81e4-41ad-878d-97d3684eb219"
+		)
+	)
+	(group ""
+		(uuid "fd278a63-56f4-46e6-a29f-79429af1331d")
+		(members "08aa4f1d-a83c-4d62-b672-d8552bd3a155" "14a0ea00-ce06-4f93-8b9b-29e4576736d5"
+			"a13e29e6-95f6-4d6d-b579-e6bd48404a9e" "f621dde9-0834-480b-84dd-65841423ee5a"
+		)
 	)
 	(embedded_fonts no)
 	(embedded_files
